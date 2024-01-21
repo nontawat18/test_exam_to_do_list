@@ -1,0 +1,130 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (min-width: 1100px) {
+    .container {
+        max-width: 1500px !important;
+    }
+    .css-1tyumyi-MuiContainer-root {
+        max-width: 1500px;
+    }
+}
+
+.navbar-color {
+    background-color: white;
+    color: #305f9b;
+    min-height: 100px !important;
+    box-shadow: 0px 2px 4px -1px rgba(255, 255, 255, 1), 0px 4px 5px 0px rgba(255, 255, 255, 1), 0px 1px 10px 0px rgba(255, 255, 255, 1);
+}
+
+.btn-maim {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main-haeder {
+    font-size: 60px;
+    color: #305f9b;
+}
+
+.sub-text {
+    font-weight: 600;
+    color: #305f9b;
+}
+
+.main-img {
+    width: 800px;
+    border-radius: 25px;
+}
+
+.title-main {
+    margin-top: 200px;
+}
+
+.login-main {
+    margin-top: 280px;
+}
+
+.exam {
+    margin-top: 100px;
+}
+
+.completed {
+    color: #bde9df;
+}
+
+.login {
+    background-color: #61dafb;
+}
+
+.paper {
+    background: linear-gradient(125deg, #c8f1bd 0%, #c1e9e0 35%, #bae2f3 100%);
+    border-top-right-radius: 50% !important;
+    border-bottom-right-radius: 10% !important;
+    border-top-left-radius: 10% !important;
+    padding: 20px;
+    color: white;
+}
+
+.paper-2 {
+    background: linear-gradient(125deg, #bde9f1 0%, #c1c7e9 35%, #c2baf3 100%);
+    border-top-right-radius: 50% !important;
+    border-bottom-right-radius: 10% !important;
+    border-top-left-radius: 10% !important;
+    padding: 20px;
+    color: white;
+}
+
+.paper-3 {
+    background: linear-gradient(125deg, #d7bdf1 0%, #e9c1dc 35%, #f3bac1 100%);
+    border-top-right-radius: 50% !important;
+    border-bottom-right-radius: 10% !important;
+    border-top-left-radius: 10% !important;
+    padding: 20px;
+    color: white;
+}
+
+.text {
+    color: white;
+    font-size: 45px;
+}
+
+.sub {
+    color: white;
+}

@@ -1,0 +1,151 @@
+[{
+        "question": "If you are _____ cold, have a hot drink to warm you up.",
+        "options": ["feel", "felt", "feels", "feeling"],
+        "correctAnswer": "feeling"
+    },
+    {
+        "question": "There _____ empty seats left in the hall.",
+        "options": ["were no", "is no", "were not", "are not"],
+        "correctAnswer": "were no"
+    },
+    {
+        "question": "The trip to Paris will _____ an ideal opportunity to practice my French.",
+        "options": ["is", "be", "are", "was"],
+        "correctAnswer": "be"
+    },
+    {
+        "question": "If you're agreeable to our proposal, we'll _____ ahead.",
+        "options": ["going", "gone", "go", "went"],
+        "correctAnswer": "go"
+    },
+    {
+        "question": "We must deal with _____ before it gets out of hand.",
+        "options": ["the situate", "the situation", "the situated", "the situates"],
+        "correctAnswer": "the situation"
+    },
+    {
+        "question": "She has been employed at this job _____ 2005.",
+        "options": ["since", "at", "for", "on"],
+        "correctAnswer": "since"
+    },
+    {
+        "question": "The trip has been _____ to include a few other events.",
+        "options": ["extend", "extending", "extends", "extended"],
+        "correctAnswer": "extended"
+    },
+    {
+        "question": "How long have you _____ unemployed?",
+        "options": ["be", "are", "were", "been"],
+        "correctAnswer": "been"
+    },
+    {
+        "question": "Her father has been missing _____ five years.",
+        "options": ["since", "when", "for", "of"],
+        "correctAnswer": "for"
+    },
+    {
+        "question": "Do you _____ anyone to help out in the shop?",
+        "options": ["needful", "need", "needs", "needed"],
+        "correctAnswer": "need"
+    },
+    {
+        "question": "People in Italy _____ living under strict lockdown conditions for three months.",
+        "options": ["has to", "has been", "have been", "have"],
+        "correctAnswer": "have been"
+    },
+    {
+        "question": "A lot of people _____ complained about the noise.",
+        "options": ["has to", "has been", "have been", "have"],
+        "correctAnswer": "have"
+    },
+    {
+        "question": "I want to hear your explanation for _____ late.",
+        "options": ["being", "is", "been", "be"],
+        "correctAnswer": "being"
+    },
+    {
+        "question": "Make sure your hands are clean before you _____ your dinner.",
+        "options": ["have been", "has been", "have", "have to"],
+        "correctAnswer": "have"
+    },
+    {
+        "question": "He _____ completed his project by next Saturday.",
+        "options": ["has to", "has been", "have been", "will have"],
+        "correctAnswer": "will have"
+    },
+    {
+        "question": "I _____ across this book in a secondhand bookstore last month.",
+        "options": ["comes", "came", "coming", "come"],
+        "correctAnswer": "came"
+    },
+    {
+        "question": "He's about the same age _____ you are.",
+        "options": ["of", "for", "fors", "as"],
+        "correctAnswer": "as"
+    },
+    {
+        "question": "Before you go to visit him, you _____ make sure he's at home.",
+        "options": ["would", "could", "should", "shall"],
+        "correctAnswer": "should"
+    },
+    {
+        "question": "She feeds her dog the same thing _____ she eats.",
+        "options": ["whom", "that", "who", "whose"],
+        "correctAnswer": "that"
+    },
+    {
+        "question": "When Mary reached the bus stop, the last bus _____ already left.",
+        "options": ["had to", "has", "have", "had"],
+        "correctAnswer": "has"
+    },
+    {
+        "question": "I was just _____ into the bath when the phone rang.",
+        "options": ["getting", "got", "get", "gets"],
+        "correctAnswer": "getting"
+    },
+    {
+        "question": "Singapore ______ all social gatherings as part of its latest restrictions to help combat Covid-19.",
+        "options": ["have banned", "has banning", "have ban", "has banned"],
+        "correctAnswer": "has banned"
+    },
+    {
+        "question": "She was _____ for threatening to spread coronavirus.",
+        "options": ["arrests", "arresting", "arrested", "arrest"],
+        "correctAnswer": "arrested"
+    },
+    {
+        "question": "Schools around the world have been closed _____ the coronavirus pandemic.",
+        "options": ["as long as", "because of", "although", "despite"],
+        "correctAnswer": "because of"
+    },
+    {
+        "question": "Researchers discovered that people _____ eat more ultra-processed foods have a higher risk of cancer.",
+        "options": ["whom", "whose", "who", "which"],
+        "correctAnswer": "who"
+    },
+    {
+        "question": "The retail industry has been decimated _____ the coronavirus pandemic.",
+        "options": ["to", "in", "at", "by"],
+        "correctAnswer": "by"
+    },
+    {
+        "question": "John _____ the problem which parents don't know.",
+        "options": ["have to", "has", "has been", "had"],
+        "correctAnswer": "has"
+    },
+    {
+        "question": "John throws a big party at his house _____ his parents are on vacation.",
+        "options": ["while", "between", "during", "among"],
+        "correctAnswer": "while"
+    },
+    {
+        "question": "My parents had already _____ by the time I got home.",
+        "options": ["eat", "eaten", "ate", "eating"],
+        "correctAnswer": "eaten"
+    },
+    {
+        "question": "This insect is tiny, _____ very dangerous.",
+        "options": ["and", "so", "but", "for"],
+        "correctAnswer": "but"
+    }
+]
